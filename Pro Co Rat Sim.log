@@ -1,0 +1,48 @@
+Circuit: * D:\Jacob\Documents\Pitt Stuff\2019-2020\ECE 1215 - Electroacoustics\Final Project\Pro Co Rat Sim.asc
+
+R4: both pins shorted together -- ignoring.
+R9: both pins shorted together -- ignoring.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+vernier = 0.5
+vernier = 0.666667
+Gmin = 0.0431678
+vernier = 0.888888
+vernier = 1
+Gmin = 0.006089
+Gmin = 0.000653801
+Gmin = 7.02013e-05
+Gmin = 7.53781e-06
+Gmin = 8.09366e-07
+Gmin = 8.6905e-08
+Gmin = 9.33136e-09
+Gmin = 1.00195e-09
+Gmin = 1.07583e-10
+Gmin = 1.15517e-11
+Gmin = 1.24035e-12
+Gmin = 1.33182e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Tue Sep 29 15:25:36 2020
+Total elapsed time: 112.861 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6884909
+traniter = 6884313
+tranpoints = 2735140
+accept = 2352841
+rejected = 382299
+matrix size = 40
+fillins = 40
+solver = Normal
+Thread vector: 8.6/4.3[3] 2.9/3.6[1] 1.0/2.9[1] 0.7/1.4[1]  2592/500
+Matrix Compiler1: 6.36 KB object code size  1.0/0.6/[0.3]
+Matrix Compiler2: 4.35 KB object code size  0.5/0.6/[0.3]
+
